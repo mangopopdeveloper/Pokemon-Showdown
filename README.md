@@ -1,0 +1,2 @@
+# Pokemon-Showdown
+Damage Calculator
